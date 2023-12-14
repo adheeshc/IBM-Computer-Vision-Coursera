@@ -1,1 +1,1 @@
-# IBM Computer Vision
+# IBM Computer Vision Coursera
